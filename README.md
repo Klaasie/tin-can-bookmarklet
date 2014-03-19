@@ -1,3 +1,5 @@
+*Tin can recently updated their own bookmarklet to 1.0.0. I recommend using that one instead.*
+
 Tin Can bookmarklet
 ================
 
